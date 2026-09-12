@@ -1,3 +1,4 @@
 # Danger-Diamond
 it's my first Git Repository
-Author - Supriya
+<br>
+Author - Supriya Yadav
